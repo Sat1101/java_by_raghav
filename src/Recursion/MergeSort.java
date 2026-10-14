@@ -33,6 +33,7 @@ public class MergeSort {
                 c[k] = a[i];
                 i++;
                 k++;
+
             } else {
                 c[k] = b[j];
                 j++;

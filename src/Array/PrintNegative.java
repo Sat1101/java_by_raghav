@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class PrintNegative {
+public class  PrintNegative {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the size: ");
